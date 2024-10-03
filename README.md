@@ -5,7 +5,7 @@ This project aims to enhance low-resolution images using super-resolution techni
 # Super-Resolution Models
 For this project, we utilize two popular super-resolution models
 
-EDSR (Enhanced Deep Residual Networks for Single Image Super-Resolution) : https://github.com/Saafke/EDSR_Tensorflow/blob/master/models/
+EDSR (Enhanced Deep Super-Resolution) : https://github.com/Saafke/EDSR_Tensorflow/blob/master/models/
 
 LapSRN (Laplacian Pyramid Super-Resolution Network) : https://github.com/fannymonori/TF-LapSRN/blob/master/export/LapSRN_x8.pb
 
